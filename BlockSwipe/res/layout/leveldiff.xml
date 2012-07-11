@@ -48,7 +48,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/imageView3"
         android:layout_centerHorizontal="true"
-
+        android:background="@drawable/levbutton"
         android:onClick="ButtonOnClick"
         android:src="@drawable/levbutton" />
 
@@ -59,7 +59,7 @@
         android:layout_above="@+id/imageView4"
         android:layout_alignLeft="@+id/bEasy"
         android:onClick="ButtonOnClick"
-        android:background="@drawable/l1"
+        android:background="@drawable/levbutton"
         android:src="@drawable/levbutton" />
 
     <ImageButton
