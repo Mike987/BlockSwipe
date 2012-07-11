@@ -1,0 +1,16 @@
+Stuff to do:
+
+1. Add difficulty buttons Easy, Normal, Hard for generating appropriate levels.  
+2. Generate from start up, fill up a level buffer for about 5 levels in case of slow generation.
+3. Generally get generating in a better place, try making it faster if possible during levels
+4. keep generated buffer in sharedprefs
+5. Fix the way activities are being started and stopped.
+
+Future:
+
+1. Bot must be able to solve levels with Keys - then generate Key levels
+2. solve button levels - generate button levels
+3. Multi cell? or possibly just small blocks for super complex huge levels
+4. Tilt controlled block - bot solve + gen
+5. Portals? Maybe just a way to move between multiCell levels? or within levels.  Either or both.
+6. Online Head to head time trial.
