@@ -1,6 +1,6 @@
 Stuff to do:
 
-1. Add difficulty buttons Easy, Normal, Hard for generating appropriate levels.  
+1. fuck shit up
 2. Generate from start up, fill up a level buffer for about 5 levels in case of slow generation.
 3. Generally get generating in a better place, try making it faster if possible during levels
 4. keep generated buffer in sharedprefs

@@ -238,7 +238,7 @@ public class GameView extends SurfaceView {
 		}
 		
 	}
-
+//
 	@Override
 	public boolean onTouchEvent(MotionEvent event) {
 		if (!runBot) {
